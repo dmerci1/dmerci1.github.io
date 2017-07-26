@@ -1,0 +1,43 @@
+body {
+	background-color: #F4EAD5;
+	margin: 0 auto;
+	text-align: center;
+}
+
+header {	
+	width: 100%;
+	background-color: #C6E5D9;	
+	height: 75px;
+
+}
+nav {
+
+    margin-bottom: 30px;
+    text-align:center;
+    margin-top: 30px;
+    float: left;
+}
+
+nav ul {
+	text-align: left;
+	list-style: none;
+}
+nav li {
+    display: inline-block;
+    padding-right: 15px;
+    text-decoration: none;
+    color: #D68189;
+}
+footer  {
+  	height: 50px;   
+  	position: absolute;
+  	position: fixed;
+  	right: 0;
+  	bottom: 0;
+  	left: 0;
+  	width: 100%;
+  	background-color: #efefef;
+  	text-align: center;
+    border-radius: 10px;
+}
+    
